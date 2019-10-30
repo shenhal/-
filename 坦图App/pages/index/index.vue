@@ -11,7 +11,7 @@
 	export default {
 		data() {
 			return {
-				title: 'Hello232'
+				title: 'Hello'
 			}
 		},
 		onLoad() {
